@@ -18,3 +18,6 @@ todo
 todo add <priority> <"Description">
 todo delete <id>
 ```
+
+# Config
+rust-todo-cli will but the list of todo files in `~/.rust_todo/list.json`
